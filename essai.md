@@ -7,3 +7,17 @@ git add README.md
 git commit -m "Update readme v2"
 
 git push origin essai
+
+git checkout master
+
+git add README.md
+
+git commit -m "Update readme v3"
+
+git push origin master
+
+git merge essai
+
+git push origin master
+
+git checkout essai
