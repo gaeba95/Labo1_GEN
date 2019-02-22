@@ -21,3 +21,11 @@ git merge essai
 git push origin master
 
 git checkout essai
+
+git branch dev 
+
+git add essai.md
+
+git commit -m "Update essai v1"
+
+git push origin essai
